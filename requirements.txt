@@ -1,0 +1,12 @@
+google-generativeai
+langchain-google-genai
+langchain
+streamlit
+pdf2image
+pyperclip
+huggingface_hub
+python-dotenv
+SpeechRecognition
+PyAudio
+pdfplumber
+python-docx
